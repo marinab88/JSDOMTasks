@@ -1,0 +1,14 @@
+/* Task 10 Styles */
+.notification {
+  position: fixed;
+  padding: 10px;
+  border: 1px solid rgb(224, 249, 30);
+  font-size: 30px;
+  background: white;
+  text-align: center;
+}
+
+.welcome {
+  background: #106403;
+  color: yellow;
+}
